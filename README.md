@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ermitep
+- 👋 Hi, I’m @2spii
 - 👀 I’m interested in psychology
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me ...
